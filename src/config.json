@@ -1,0 +1,7 @@
+{
+    "URL_ZK_PROVER": "https://prover-dev.mystenlabs.com/v1",
+    "URL_SALT_SERVICE": "/dummy-salt-service.json",
+    "CLIENT_ID_GOOGLE": "600415260840-j8jht9im6ha65tc8hsr8g7eilirna6m6.apps.googleusercontent.com",
+    "CLIENT_ID_TWITCH": "YOUR_TWITCH_CLIENT_ID",
+    "CLIENT_ID_FACEBOOK": "YOUR_FACEBOOK_CLIENT_ID"
+}
